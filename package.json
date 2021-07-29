@@ -17,6 +17,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.6.1",
     "graphql": "^15.5.1"
   }
 }
