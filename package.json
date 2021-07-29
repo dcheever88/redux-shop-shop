@@ -1,5 +1,5 @@
 {
-  "name": "mern-shopping",
+  "name": "redux-shop-shop",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -14,10 +14,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "redux-devtools": "^3.7.0"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
-    "graphql": "^15.5.1"
+    "graphql": "^15.5.1",
+    "react-redux": "^7.2.4"
   }
 }
