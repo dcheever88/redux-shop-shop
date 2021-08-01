@@ -1,7 +1,6 @@
 {
   "name": "mern-shopping",
   "version": "1.0.0",
-  "description": "",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
@@ -11,7 +10,7 @@
     "build": "cd client && npm run build"
   },
   "keywords": [],
-  "author": "",
+  "author": "Danny Cheever",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0",
@@ -23,5 +22,14 @@
     "graphql": "^15.5.1",
     "react-redux": "^7.2.4",
     "redux": "^4.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcheever88/redux-shop-shop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dcheever88/redux-shop-shop/issues"
+  },
+  "homepage": "https://github.com/dcheever88/redux-shop-shop#readme",
+  "description": ""
 }
