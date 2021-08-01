@@ -1,4 +1,4 @@
-// import { useReducer } from 'react';
+import { useReducer } from 'react';
 
 import {
     UPDATE_PRODUCTS,
@@ -97,8 +97,8 @@ const reducer = (state = defaultState, action) => {
     }
 };
 
-// export function useProductReducer(initialState) {
-//     return useReducer(reducer, initialState);
-// }
+export function useProductReducer(initialState) {
+    return useReducer(reducer, initialState);
+}
 
 export default reducer;

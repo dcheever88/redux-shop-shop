@@ -1,4 +1,4 @@
-node_modules
+node_modules/
 
 ### react ###
 # .DS_*
@@ -14,4 +14,4 @@ node_modules
 
 # psd
 # thumb
-# sketch
+# sketchnode_modules
