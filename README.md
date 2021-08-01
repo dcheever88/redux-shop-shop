@@ -32,6 +32,7 @@ App deployed at https://obscure-tor-23806.herokuapp.com/
 * Mongoose
 * MongoDB
 * GraphQL
+* Stripe payment platform
 
 ## Auther
 Danny Cheever is a software developer from Wisconsin. His github page is: https://github.com/dcheever88
