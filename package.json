@@ -24,7 +24,8 @@
     "@reduxjs/toolkit": "^1.6.1",
     "graphql": "^15.5.1",
     "react-redux": "^7.2.4",
-    "redux": "^4.1.0"
+    "redux": "^4.1.0",
+    "tslib": "^1.14.1"
   },
   "repository": {
     "type": "git",
