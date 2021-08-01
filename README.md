@@ -12,12 +12,16 @@ App deployed at https://obscure-tor-23806.herokuapp.com/
 
 ## App Images
 * Homepage
+![image](https://user-images.githubusercontent.com/78058224/127785613-d3a3705e-c48e-43ed-bb3e-82c1640f2add.png)
 
 * Categories
+![image](https://user-images.githubusercontent.com/78058224/127785619-605eee5f-5bc3-4a74-8e46-57e540c5f7b9.png)
 
 * Cart
+![image](https://user-images.githubusercontent.com/78058224/127785627-cc3dbf3e-a61d-4cb8-85a6-019cb9067bbd.png)
 
 * Checkout
+![image](https://user-images.githubusercontent.com/78058224/127785633-66119660-252e-469e-941d-4396ff959c30.png)
 
 ## Technologies Used
 * React
