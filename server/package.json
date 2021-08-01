@@ -3,33 +3,26 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "engines": {
-    "node": "14.16.1"
-  },
   "scripts": {
     "start": "node server.js",
+    "watch": "nodemon",
     "seed": "node config/seeds.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@redux-devtools/core": "^3.9.0",
     "@reduxjs/toolkit": "^1.6.1",
     "apollo-server-express": "^2.11.0",
     "bcrypt": "^4.0.1",
     "express": "^4.17.1",
-    "graphql": "^15.5.1",
+    "graphql": "^15.5.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
-    "react": "^17.0.2",
     "react-redux": "^7.2.4",
-    "stripe": "^8.164.0",
-    "tslib": "^1.14.1",
-    "typescript": "^4.3.5"
+    "stripe": "^8.164.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.14.8",
     "nodemon": "^2.0.2"
   }
 }
