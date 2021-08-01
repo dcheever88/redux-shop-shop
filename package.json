@@ -17,15 +17,14 @@
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.8",
-    "concurrently": "^5.1.0",
-    "redux-devtools": "^3.7.0"
+    "concurrently": "^5.1.0"
   },
   "dependencies": {
     "@redux-devtools/core": "^3.9.0",
     "@reduxjs/toolkit": "^1.6.1",
     "graphql": "^15.5.1",
-    "react": "^17.0.2",
     "react-redux": "^7.2.4",
+    "react": "^17.0.2",
     "redux": "^4.1.0",
     "tslib": "^1.14.1",
     "typescript": "^4.3.5"
