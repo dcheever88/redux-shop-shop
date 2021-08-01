@@ -24,6 +24,7 @@
     "@redux-devtools/core": "^3.9.0",
     "@reduxjs/toolkit": "^1.6.1",
     "graphql": "^15.5.1",
+    "react": "^17.0.2",
     "react-redux": "^7.2.4",
     "redux": "^4.1.0",
     "tslib": "^1.14.1"
