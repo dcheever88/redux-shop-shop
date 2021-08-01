@@ -20,6 +20,9 @@
     "react-scripts": "3.4.1",
     "redux": "^4.1.0"
   },
+  "engines": {
+    "node": "14.16.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
